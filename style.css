@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+}
+
+#conteudo{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#logo{
+    width: 1000px;
+}
+
+#logo img{
+    width: 270px;
+    height: 200px;
+}
+
+#banner img{
+    width: 1000px;
+    height: 400px;
+}
+
+#texto img{
+    float: right;  
+}
+
+#texto p{
+    width: 700px;
+    float: left;
+    margin-bottom: 50px;
+    margin-top: 0;
+	
+}
+
+#texto{
+    margin-bottom: 30px;
+}
+
+#rodape{
+    clear: both;
+    text-align: center;
+    color: #9e5d61;
+    background-color: rgba(99, 148, 145, 0.53);
+    width: 100%;
+}
